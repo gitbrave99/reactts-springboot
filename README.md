@@ -1,6 +1,6 @@
-# React + TypeScript + Vite
+# React + TypeScript + Vite + Springtboot
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Proyecto fullstack con api creada con springboot-mysql
 
 Currently, two official plugins are available:
 
